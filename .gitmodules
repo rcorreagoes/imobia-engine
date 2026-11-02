@@ -1,0 +1,3 @@
+[submodule "imobai-deploy/imobia-engine"]
+	path = imobai-deploy/imobia-engine
+	url = https://github.com/rcorreagoes/imobia-engine.git
